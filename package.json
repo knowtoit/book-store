@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "mdbreact": "^5.2.0",
+    "react-bootstrap": "^2.7.0",
+    "react-hook-form": "^7.43.0",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router": "^6.8.0",
+    "react-router-dom": "^6.8.0",
+    "react-scripts": "^5.0.1",
+    "react-stripe-elements": "^6.1.2",
+    "semantic-ui-react": "^2.1.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
